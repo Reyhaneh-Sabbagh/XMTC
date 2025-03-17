@@ -1,0 +1,44 @@
+1230
+output_path:/scratch/tmp/gali/runs/
+current_range:1230
+The name of this task is PDP_currentrange_1230
+mypath:/scratch/tmp/gali/runs/PDP_currentrange_1230
+/scratch/tmp/gali/runs/PDP_currentrange_1230/PDP_drcif created.
+max_length:1436
+**************current_range:1230******************************************
+model_path:/scratch/tmp/gali/runs_Task1_drcif_save/drcif_slidingWindow_currentrange_1230/Results_slidingWindow_DrCIF/drcif_model_Task1_1230.pkl
+global_min_train:-16.67143360455655, global_max_train:15.111895012205045
+x_train shape is: (1096, 12)
+x_test shape is: (274, 12)
+*(1230,)
+**(1230,)
+***(1230,)
+Number of classes in train_data: (array([0, 1, 2, 3, 4, 5, 6, 7]), array([138, 138, 137, 138, 137, 136, 138, 134]))
+Number of classes in test_data: (array([0, 1, 2, 3, 4, 5, 6, 7]), array([34, 35, 34, 35, 34, 34, 34, 34]))
+start to load model
+feature:0
+feature:1
+feature:2
+feature:3
+feature:4
+feature:5
+feature:6
+feature:7
+feature:8
+feature:9
+feature:10
+feature:11
+time for PDP calculation in seconds:
+9707.548609733582
+################################# JOB REPORT ##################################
+Job ID: 31767779
+Cluster: palma2
+User/Group: gali/u0dawin
+State: COMPLETED (exit code 0)
+Cores: 1
+CPU Utilized: 02:41:04
+CPU Efficiency: 99.36% of 02:42:06 core-walltime
+Job Wall-clock time: 02:42:06
+Memory Utilized: 2.62 GB
+Memory Efficiency: 2.62% of 100.00 GB
+###############################################################################

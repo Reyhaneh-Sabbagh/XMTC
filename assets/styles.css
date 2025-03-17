@@ -1,0 +1,92 @@
+/* Make the layout responsive */
+#div-left {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 15%;
+    padding: 20px;
+    border-right: 2px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    float: left;
+    height: 100vh;
+    overflow-y: auto;
+    background-color: #f8f9fa;
+    justify-content: center;
+    box-shadow: 3px 2px 15px rgba(0, 0, 0, 0.15);
+}
+
+#div-right {
+    margin-left:15%;
+    width: 85%;
+    /*float: left;*/
+    height: 100vh;
+    /*overflow-y: auto;*/
+    padding: 2px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+}
+
+/* Styling for dropdowns */
+#dropDown-task {
+    margin-top: 5%;
+    margin-bottom: 20px;
+}
+
+/* Styling the graph container */
+#figure-scatterPlot-accuracy {
+    height: calc(100vh / 1.8);
+    /*width: calc(100vh);*/
+    display: none;
+    /*margin: 0;  */
+    /*padding: 0;*/
+}
+
+/*!* Styling the graph container *!*/
+/*#figure-scatterPlot-weights {*/
+/*    height: calc(100vh / 1.8);*/
+/*    !*width: calc(100vh);*!*/
+/*    display: none;*/
+/*}*/
+
+#button-apply {
+    width: 100px;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin:0 auto;
+    display:block;
+}
+
+#radioItems-timeSeries{
+    height:calc(100vh / 4);
+    overflow: auto;
+
+}
+
+#figure-heatmap-probs{
+    display: none;
+}
+
+#figure-PDP{
+    display: None;
+}
+
+#dropDown-model{
+    /*height: 500px;*/
+    font-size: 13px;
+}
+
+.P{
+    text-align: center;
+    font-size: 12px
+}
+/*#tooltip-scatterPlot-accuracy*/
+/*{ */
+/*    show: '40000';*/
+/*    hide: '40000';*/
+/*}*/

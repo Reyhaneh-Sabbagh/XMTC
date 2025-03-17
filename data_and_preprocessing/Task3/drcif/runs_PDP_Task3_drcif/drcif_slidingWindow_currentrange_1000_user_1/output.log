@@ -1,0 +1,13 @@
+slurmstepd: error: *** JOB 31791258 ON r20n27 CANCELLED AT 2025-01-04T23:58:36 ***
+################################# JOB REPORT ##################################
+Job ID: 31791258
+Cluster: palma2
+User/Group: gali/u0dawin
+State: CANCELLED (exit code 0)
+Cores: 1
+CPU Utilized: 00:00:46
+CPU Efficiency: 69.70% of 00:01:06 core-walltime
+Job Wall-clock time: 00:01:06
+Memory Utilized: 1.87 GB
+Memory Efficiency: 0.73% of 256.00 GB
+###############################################################################
