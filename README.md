@@ -3,15 +3,18 @@
 To run this project locally, follow these steps:
 
 1. Clone this repository:
+    ```bash
    git clone https://github.com/Reyhaneh-Sabbagh/XMTC.git
 3. Navigate to the project directory:
+   ```
    cd XMTC
-5. (Optional) Set up a virtual environment (recommended):
+4. (Optional) Set up a virtual environment (recommended):
+   ```
    python -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-7. Install the required libraries:
+5. Install the required libraries:
+   ```
    pip install -r requirements.txt
-
 
 ## Running the Application
 
