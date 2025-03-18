@@ -23,5 +23,5 @@ python app.py
 This will start a local web server. Open your browser and go to http://127.0.0.1:8050/ to view the application.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
 
