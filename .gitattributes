@@ -1,6 +1,4 @@
 *.py linguist-detectable=true
-*.html linguist-detectable=true
-*.css linguist-detectable=true
+*.html linguist-detectable=false
+*.css linguist-detectable=false
 
-# Force Python to be recognized as the main language
-*.py linguist-vendored=false
