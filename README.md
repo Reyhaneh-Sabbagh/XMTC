@@ -25,3 +25,5 @@ This will start a local web server. Open your browser and go to http://127.0.0.1
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
 
+[![DOI](https://zenodo.org/badge/949922361.svg)](https://doi.org/10.5281/zenodo.15043955)
+
