@@ -78,6 +78,8 @@ See `requirements.txt` for the full list.
 Grasp-Dataset is publicly available at https://github.com/Reyhaneh-Sabbagh/Grasp-Dataset.   
 DOI information of the dataset: [![DOI](https://zenodo.org/badge/955882786.svg)](https://doi.org/10.5281/zenodo.15096149)
 
+## Citation information  
+This project, 'Early and Explainable Prediction of Reach-to-Grasp Hand Kinematics using Multivariate Time Series Classification', is submitted to 'The Visual Computer' journal.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
