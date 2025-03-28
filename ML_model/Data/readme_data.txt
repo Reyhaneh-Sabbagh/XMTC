@@ -1,0 +1,4 @@
+After running preprocessing_data_R2G_features.py three csv files with the following names will be created here:
+R2G_features_t_normalized_Task1.csv
+R2G_features_t_normalized_Task2.csv
+R2G_features_t_normalized_Task3.csv
