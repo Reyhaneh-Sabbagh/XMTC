@@ -1,5 +1,0 @@
-*.py linguist-detectable=true
-*.html linguist-detectable=false
-*.css linguist-detectable=false
-*.csv filter=lfs diff=lfs merge=lfs -text
-*.csv !text !filter !merge !diff
