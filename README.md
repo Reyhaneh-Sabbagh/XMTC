@@ -85,6 +85,10 @@ This project, 'Early and Explainable Prediction of Reach-to-Grasp Hand Kinematic
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
 
 ## DOI information of this repository  
-v1.0: [![DOI](https://zenodo.org/badge/949922361.svg)](https://doi.org/10.5281/zenodo.15043955)  
+v1.1: [![DOI](https://zenodo.org/badge/949922361.svg)](https://doi.org/10.5281/zenodo.15100644)   
+v1.0: [![DOI](https://zenodo.org/badge/949922361.svg)](https://doi.org/10.5281/zenodo.15043956)    
+
+
+ 
 
 
